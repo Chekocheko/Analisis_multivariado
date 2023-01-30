@@ -1,6 +1,6 @@
 
 # Análisis Estadístico Multivariable
->Version Tinoco 
+>Version Tinoco 2.0
 
 Curso de la maestría en ciencia de datos (MCD) del ITESO.
 
